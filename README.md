@@ -1,1 +1,0 @@
-# minicomp-rossman
