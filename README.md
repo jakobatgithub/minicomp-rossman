@@ -1,5 +1,7 @@
 ## Rossman Kaggle Mini-Competition
 
+Teamname: #1
+
 The python version of our environment is 3.9.7
 
 ##Conda environment
