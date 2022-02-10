@@ -1,5 +1,16 @@
 ## Rossman Kaggle Mini-Competition
 
+
+##How to set up the conda environment:
+
+Execute the following commands in the 'minicomp-rossman' folder:
+
+conda create --name minicomp python=3.9.7
+conda config --append channels conda-forge
+conda activate minicomp
+pip install -r requirements.txt
+
+
 This mini competition is adapted from the Kaggle Rossman challenge.  Please refrain from looking at the challenge on Kaggle until after you have finished - this will allow you to get a true measurement of where you are at as a data scientist.
 
 ## Setup
